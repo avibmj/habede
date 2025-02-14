@@ -109,7 +109,7 @@
 
 
     // Tentukan tanggal dan waktu akses (misal: 8 Februari 2025 jam 10:00)
-    const tanggalAkses = new Date(2025, 1, 8, 22, 19, 0); // Tanggal 8 Februari 2025 jam 10:00
+    const tanggalAkses = new Date(2025, 2, 14, 20, 6, 0); // Tanggal 8 Februari 2025 jam 10:00
     const tanggalSekarang = new Date();
 
     // Mengecek apakah waktu sekarang sudah lebih besar atau sama dengan waktu yang ditentukan
